@@ -1,0 +1,23 @@
+
+Insights from Superstore Sales Dashboard:
+
+1. Sales Over Month:
+   - Sales show fluctuations across the months from November 2020 to November 2024.
+   - Noticeable spikes in sales occur around November 2021, November 2022, and late 2024.
+   - Overall sales trend is upward over the years, despite periodic dips.
+
+2. Sales by Region:
+   - East region has the highest sales (~$650K+), followed by West (~$600K).
+   - Central region records moderate sales (~$500K).
+   - South region has the lowest sales (~$350K).
+
+3. Sales by Category (Donut Chart):
+   - Chairs lead in sales with $335,768.
+   - Phones follow closely with $331,843.
+   - Storage category makes $224,645 in sales.
+   - Tables and Binders contribute ~$208K each.
+
+4. Sales and Profit by Order Date (Segment Analysis):
+   - Consumer segment shows steady sales and profit growth over the years.
+   - Corporate segment also has a growth trend, but sales in 2024 slightly outpace profit.
+   - Home Office segment experiences the slowest growth, with minimal profit changes until 2024.
